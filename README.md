@@ -1,6 +1,6 @@
 # Housing Price Prediction: EDA, Preprocessing & Baseline Modelling
 
-End-to-end regression pipeline on the California Housing dataset (predict `median_house_value`).
+End-to-end housing price prediction on California Housing data: EDA, leak-free preprocessing pipelines, and comparison of Linear Regression, Decision Tree, Random Forest and Gradient Boosting (RMSE, MAE, R²).
 
 **Notebook:** `housing_price_prediction.ipynb`
 
